@@ -6,7 +6,7 @@
   - [Lab Overview & Creating Our Own Resources](https://github.com/erics-resume/microsoft-azure-creating-own-resources)
   - [Performing Activities on the Network](https://github.com/erics-resume/microsoft-azure-network-activities)
 - <b>Active Directory</b>
-  - [Creating Users (with Powershell)](https://github.com/erics-resume/active-directory-create-users) <b><i>(Potentially NSFW)</b></i>
+  - [Creating Users (with Powershell)](https://github.com/erics-resume/active-directory-create-users) 
 - <b>DNS</b>
   - [Building Intuition](https://github.com/erics-resume/building-intuition/blob/main/README.md)
 
