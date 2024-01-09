@@ -1,3 +1,3 @@
-### Hi, I'm Eric Xu!
-IT Professional, Youtuber,
-Blogger
+<h1>Hi, I'm Eric Xu!, an <a href="https://www.linkedin.com/in/eric-xu-a07bb21b2/">IT Professional</a></h1>
+
+
