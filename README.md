@@ -6,7 +6,7 @@
   - [Lab Overview & Creating Our Own Resources](https://github.com/erics-resume/microsoft-azure-creating-own-resources)
   - [Performing Activities on the Network](https://github.com/erics-resume/microsoft-azure-network-activities)
 - <b>Active Directory</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/erics-resume/active-directory-create-users) <b><i>(Potentially NSFW)</b></i>
 - <b>DNS</b>
   - [Building Intuition](https://github.com/joshmadakor1/Sentinel-Lab)
 
