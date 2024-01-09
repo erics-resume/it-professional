@@ -8,7 +8,7 @@
 - <b>Active Directory</b>
   - [Image Analysis Middleware](https://github.com/erics-resume/active-directory-create-users) <b><i>(Potentially NSFW)</b></i>
 - <b>DNS</b>
-  - [Building Intuition](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Building Intuition](https://github.com/erics-resume/building-intuition/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
