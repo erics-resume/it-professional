@@ -3,7 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Lab Overview & Creating Our Own Resources](https://github.com/erics-resume/microsoft-azure-creating-own-resources)
+  - [Performing Activities on the Network](https://github.com/erics-resume/microsoft-azure-network-activities)
 - <b>Active Directory</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>DNS</b>
