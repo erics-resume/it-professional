@@ -10,7 +10,7 @@
 - <b>DNS</b>
   - [Building Intuition](https://github.com/erics-resume/building-intuition/blob/main/README.md)
 - <b>Asset Management Security</b>
-  - [Small Business AAA Framework]([https://github.com/erics-resume/active-directory-create-users](https://github.com/erics-resume/linux-file-permissions))
+  - [Small Business AAA Framework](https://github.com/erics-resume/vulnerability-assessment)
   - [PASTA-Threat-Modeling](https://github.com/erics-resume/Threat-Modeling-PASTA)
   - [Risk Register](https://github.com/erics-resume/Threat-Modeling-PASTA)
   - [Vulnerability Assessment](https://github.com/erics-resume/Threat-Modeling-PASTA)
