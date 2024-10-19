@@ -15,7 +15,7 @@
   - [Risk Register](https://github.com/erics-resume/Threat-Modeling-PASTA)
   - [Vulnerability Assessment](https://github.com/erics-resume/Threat-Modeling-PASTA)
 - <b>Managing File Permissions</b>
-  - [File permissions in Linux]([https://github.com/erics-resume/active-directory-create-users](https://github.com/erics-resume/linux-file-permissions)) 
+  - [File permissions in Linux](https://github.com/erics-resume/linux-file-permissions) 
 
 <h2> 🤳 Connect with me:</h2>
 
