@@ -12,8 +12,10 @@
 - <b>Asset Management Security</b>
   - [Small Business AAA Framework](https://github.com/erics-resume/vulnerability-assessment)
   - [PASTA-Threat-Modeling](https://github.com/erics-resume/Threat-Modeling-PASTA)
-  - [Risk Register](https://github.com/erics-resume/Threat-Modeling-PASTA)
-  - [Vulnerability Assessment](https://github.com/erics-resume/Threat-Modeling-PASTA)
+  - [Risk Register](https://github.com/erics-resume/risk-register)
+  - [Data Handling](https://github.com/erics-resume/data-handling)
+  - [Asset Management](https://github.com/erics-resume/asset-management)
+  - [Vulnerability Assessment](https://github.com/erics-resume/vulnerability-assessment)
 - <b>Managing File Permissions</b>
   - [File permissions in Linux](https://github.com/erics-resume/linux-file-permissions) 
 
