@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric Xu! <br/><a href="https://www.linkedin.com/in/eric-xu-a07bb21b2/">IT Professional</a></h1>
+<h1>Hi, I'm Eric Xu! <br/><a href="https://www.linkedin.com/in/eric-xu-a07bb21b2/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -9,6 +9,13 @@
   - [Creating Users (with Powershell)](https://github.com/erics-resume/active-directory-create-users) 
 - <b>DNS</b>
   - [Building Intuition](https://github.com/erics-resume/building-intuition/blob/main/README.md)
+- <b>Asset Management Security</b>
+  - [Small Business AAA Framework]([https://github.com/erics-resume/active-directory-create-users](https://github.com/erics-resume/linux-file-permissions))
+  - [PASTA-Threat-Modeling](https://github.com/erics-resume/Threat-Modeling-PASTA)
+  - [Risk Register](https://github.com/erics-resume/Threat-Modeling-PASTA)
+  - [Vulnerability Assessment](https://github.com/erics-resume/Threat-Modeling-PASTA)
+- <b>Managing File Permissions</b>
+  - [File permissions in Linux]([https://github.com/erics-resume/active-directory-create-users](https://github.com/erics-resume/linux-file-permissions)) 
 
 <h2> 🤳 Connect with me:</h2>
 
