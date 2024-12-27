@@ -30,8 +30,10 @@
 [<img align="left" alt="EricXu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="EricXu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="EricXu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="EricXu | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/eric-xu-a07bb21b2/
+[medium]: https://medium.com/@eric4xu42
