@@ -9,7 +9,7 @@
   - [Creating Users (with Powershell)](https://github.com/erics-resume/active-directory-create-users) 
 - <b>DNS</b>
   - [Building Intuition](https://github.com/erics-resume/building-intuition/blob/main/README.md)
-- <b>Asset Management Security</b>
+- <b>Asset Security/Risk Management</b>
   - [Small Business AAA Framework](https://github.com/erics-resume/vulnerability-assessment)
   - [PASTA-Threat-Modeling](https://github.com/erics-resume/Threat-Modeling-PASTA)
   - [Risk Register](https://github.com/erics-resume/risk-register)
