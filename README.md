@@ -20,7 +20,9 @@
   - [File permissions in Linux](https://github.com/erics-resume/linux-file-permissions)
 - <b>Python Projects</b>
   - [Packet Sniffer](https://github.com/erics-resume/packet-sniffer)
-  - [Caesar Cipher](https://github.com/erics-resume/cesar-cipher) 
+  - [Caesar Cipher](https://github.com/erics-resume/cesar-cipher)
+  - [Password Strength Checker](https://github.com/erics-resume/password-strength-chcker)
+  - [Network Scanner](https://github.com/erics-resume/network-scanner)
 
 <h2> 🤳 Connect with me:</h2>
 
