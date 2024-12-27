@@ -19,7 +19,8 @@
 - <b>Managing File Permissions</b>
   - [File permissions in Linux](https://github.com/erics-resume/linux-file-permissions)
 - <b>Python Projects</b>
-  - [Packet Sniffer](https://github.com/erics-resume/packet-sniffer) 
+  - [Packet Sniffer](https://github.com/erics-resume/packet-sniffer)
+  - [Caesar Cipher](https://github.com/erics-resume/cesar-cipher) 
 
 <h2> 🤳 Connect with me:</h2>
 
