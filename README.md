@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Networking</b>
   - [Lab Overview & Creating Our Own Resources](https://github.com/erics-resume/microsoft-azure-creating-own-resources)
   - [Performing Activities on the Network](https://github.com/erics-resume/microsoft-azure-network-activities)
+  - [Network Traffic Analysis](https://github.com/erics-resume/network-traffic-analysis)
 - <b>Active Directory</b>
   - [Creating Users (with Powershell)](https://github.com/erics-resume/active-directory-create-users) 
 - <b>DNS</b>
@@ -16,6 +17,7 @@
   - [Data Handling](https://github.com/erics-resume/data-handling)
   - [Asset Management](https://github.com/erics-resume/asset-management)
   - [Vulnerability Assessment](https://github.com/erics-resume/vulnerability-assessment)
+  - [Conducting A Security Audit](https://github.com/erics-resume/conducting-security-audit)
 - <b>Managing File Permissions</b>
   - [File permissions in Linux](https://github.com/erics-resume/linux-file-permissions)
 - <b>Python Projects</b>
